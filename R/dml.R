@@ -77,7 +77,7 @@
 #' @importFrom purrr pmap reduce map pluck map_dbl map2_dfr map_dfc map_lgl
 #' @importFrom stats median optim update formula model.matrix model.frame
 #' @importFrom furrr future_map furrr_options
-#' @importFrom future plan multiprocess
+#' @importFrom future plan
 #' @importFrom dplyr rename_all select bind_cols filter if_else mutate arrange pull
 #' @importFrom stringr str_replace_all regex str_detect
 #' @importFrom Formula Formula
